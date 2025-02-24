@@ -11,5 +11,5 @@ and use this link https://github.com/mfernandes61/Rres_about_us/tree/main
 
 ## Working from outside of a group   
 1) Work with another group e.g. group 1 with group 2   
-2) Use Forking to add your bios to the next section and then ropose a merge to other groups page.
+2) Use Forking to add your bios to the next section and then propose a merge to other groups page.
    
