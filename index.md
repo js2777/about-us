@@ -3,7 +3,7 @@
       title="Group 1"
       width="90%"
       height="25%"
-      src="g1/group1.md">
+      src="g1/group1">
   </iframe>   
 </div>
 <div>
