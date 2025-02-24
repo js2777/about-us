@@ -11,7 +11,7 @@
       title="Group 2"
       width="90%"
       height="25%"
-      src="g2/group2.md">
+      src="g2/group2">
   </iframe>   
 </div>
 <div>
@@ -19,6 +19,6 @@
       title="Group 3"
       width="90%"
       height="25%"
-      src="g3/group3.md">
+      src="g3/group3">
   </iframe>    
 </div>
