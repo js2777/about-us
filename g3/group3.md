@@ -2,4 +2,4 @@
 My mission is to get my crew and ship safely back to the Alpha Quadrant.   
 I adore coffee!    
 
-![Ella Lacey] (../img/Ella Lacey.jpeg)
+![Ella Lacey](img/Ella Lacey.jpeg]
