@@ -1,5 +1,4 @@
-![Kathyrn Janeway](../img/Janeway.jpeg)    
-My mission is to get my crew and ship safely back to the Alpha Quadrant.   
-I adore coffee!    
+![Ella Lacey](../img/EllaLacey.jpeg)
 
-![Ella Lacey](img/Ella Lacey.jpeg]
+# My name is Ella Lacey ! 
+_I am researching the link between tau and inflammation in Alzheimer's disease :)_
